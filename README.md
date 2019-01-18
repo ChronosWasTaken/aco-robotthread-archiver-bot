@@ -1,9 +1,12 @@
 # aco-robotthread-archiver-bot
 a fucking discord parasite designed to post links to robo smut threads on its dedicated channel until its host dies.
+
 requires moesearch and discord.py, just do `pip3 install moesearch` and `pip3 install https://github.com/Rapptz/discord.py/archive/rewrite.zip#egg=discord.py`
+
 change your [https://discordapp.com/developers/applications/](bot token), discord server name and dedicated robosmut channel on parser.py before running.
 
 # License
+
 ```
         DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE 
                     Version 2, December 2004 
