@@ -3,7 +3,7 @@ a fucking discord parasite designed to post links to robo smut threads on its de
 
 requires moesearch and discord.py, just do `pip3 install moesearch` and `pip3 install https://github.com/Rapptz/discord.py/archive/rewrite.zip#egg=discord.py`
 
-change your [https://discordapp.com/developers/applications/](bot token), discord server name and dedicated robosmut channel on parser.py before running.
+change your (https://discordapp.com/developers/applications/)[bot token], discord server name and dedicated robosmut channel on parser.py before running.
 
 # License
 
